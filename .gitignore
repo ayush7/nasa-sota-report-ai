@@ -5,7 +5,9 @@ __pycache__/
 
 # C extensions
 *.so
-
+*.pdf
+*.bin
+*.sqlite3
 # Distribution / packaging
 .Python
 build/
